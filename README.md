@@ -6,9 +6,9 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/seamless-m4t-colab/blob/main/seamless_expressive_v2_colab.ipynb) | seamless_expressive_v2_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/seamless-m4t-colab/blob/main/seamless_m4t_v2_colab.ipynb) | seamless_m4t_v2_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/seamless-m4t-colab/blob/main/seamless_m4t_colab.ipynb) | seamless_m4t_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GrayGriffin/seamless-m4t-colab/blob/main/seamless_expressive_v2_colab.ipynb) | seamless_expressive_v2_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GrayGriffin/seamless-m4t-colab/blob/main/seamless_m4t_v2_colab.ipynb) | seamless_m4t_v2_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GrayGriffin/seamless-m4t-colab/blob/main/seamless_m4t_colab.ipynb) | seamless_m4t_colab
 
 ## Main Repo
 https://github.com/facebookresearch/seamless_communication <br />
@@ -35,11 +35,11 @@ https://creativecommons.org/licenses/by-nc/4.0/deed.en_GB <br />
 ## Output
 seamless_expressive_v2_colab
 
-https://github.com/camenduru/seamless-m4t-colab/assets/54370274/72602abb-8361-4ac8-9a05-d85119622391
+https://github.com/GrayGriffin/seamless-m4t-colab/assets/54370274/72602abb-8361-4ac8-9a05-d85119622391
 
 seamless_m4t_v2_colab
 
-https://github.com/camenduru/seamless-m4t-colab/assets/54370274/b735229a-5daf-472f-ac0f-02ad247296b9
+https://github.com/GrayGriffin/seamless-m4t-colab/assets/54370274/b735229a-5daf-472f-ac0f-02ad247296b9
 
-https://github.com/camenduru/seamless-m4t-colab/assets/54370274/164d86ec-79e3-415f-a9a0-6c9c25042de9
+https://github.com/GrayGriffin/seamless-m4t-colab/assets/54370274/164d86ec-79e3-415f-a9a0-6c9c25042de9
 
